@@ -1,0 +1,22 @@
+{
+  "name": "men-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinnyvilasboa/blog-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinnyvilasboa/blog-book/issues"
+  },
+  "homepage": "https://github.com/vinnyvilasboa/blog-book#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
